@@ -1,0 +1,24 @@
+#include <stdio.h>
+
+int main(){
+
+/* this is a program to convert forenhight to celcious*/
+ float fh, celcious;
+
+printf("plese enter value of tem in forenhight\n\n");
+printf("pagal ho gya hai kya")
+scanf("%f", &fh);//store it into fh
+
+celcious= (fh-32)*5/9;
+
+printf("\n\ntem in celcious: =%f",celcious);
+
+
+
+
+
+
+
+
+
+}
